@@ -1,17 +1,13 @@
 {
-
     "global-translations": {
         "email-contact-link": "<a href='mailto:guilhermefortunatopr@gmail.com?subject=Vamos%20Falar%20Sobre%20Negócios&body=Olá%20Guilherme...' target='_blank'><i class='fa-solid fa-envelope'></i></a>",
-
         "more-about-text": "Saiba Mais",
-
         "beginner-text": "Iniciante",
         "intermediate-text": "Intermediário",
         "advanced-text": "Experiente",
-
+        "fluent-text": "Fluente",
         "certified-link": "Link Certificado"
     },
-
     "navigation": {
         "navigation-home": "Home",
         "navigation-about-me": "Sobre Mim",
@@ -19,268 +15,203 @@
         "navigation-knowledge": "Conhecimento",
         "navigation-contact": "Contato"
     },
-
     "apresentation": {
         "apresentation-text-h2": "Olá, eu sou o <strong>Guilherme Fortunato</strong>",
         "apresentation-text-p": "Um garoto que <span>transforma</span> linhas de código em <strong>soluções inovadoras.</strong>",
-
         "apresentation-fullstack": "Desenvolvedor FullStack Web"
     },
-
     "end-to-end-applications": {
         "end-to-end-applications-text": "Aplicações criadas e desenvolvidas de<br /><span>Ponta a Ponta</span>"
     },
-
     "about-me": {
         "about-me-title": "Sobre Mim",
-        "about-me-text": "Olá, meu nome é Guilherme Fortunato Machado, atualmente tenho <strong>18 anos</strong> e moro no Paraná, desde os 9 anos tive contato com programação e desenvolvimento de jogos, aos 12 anos criei meu primeiro site, fiz o <strong>Curso Fullstack da Danki Code</strong> e hoje tenho certificados como <strong>Desenvolvedor de Games, Desenvolvedor Web e Programador de Aplicativos</strong>, tenho conhecimento em linguagens como <strong>PHP, JavaScript e Lua</strong> como linguagem de programação para games. <strong>Tenho interesse em trabalhos ou freelances na área Fullstack ou Mobile</strong>, e também estarei aprendendo <strong>Python</strong> e futuramente <strong>Ruby</strong>. Tenho conhecimento em tecnologias como <strong>React JS, React Native e um pouco de NodeJS</strong>, Frameworks Front-End como <strong>Bootstrap, Materialize e SASS</strong>, e em banco de dados o que eu tenho mais conhecimento é o <strong>MySQL</strong>, também tenho conhecimento em um pouco de <strong>MongoDB</strong>."
+        "about-me-text": "Olá! Meu nome é Guilherme Fortunato Machado, tenho <strong>18 anos</strong> e sou <strong>Desenvolvedor Web FullStack</strong> com experiência prática em projetos em produção e freelances. Desenvolvo aplicações modernas utilizando <strong>JavaScript e TypeScript</strong>, atuando no front-end e no back-end com tecnologias como <strong>React, Next.js, Node.js, Deno e APIs REST/GraphQL</strong>, focando na construção de soluções escaláveis e bem estruturadas. Tenho experiência com <strong>MongoDB, MySQL e PostgreSQL</strong>, além de ferramentas e práticas como <strong>Git/GitHub, Docker, testes E2E com Cypress, Clean Architecture e DDD</strong>. Tenho interesse em <strong>projetos e oportunidades FullStack ou Mobile</strong> que envolvam desenvolvimento de produtos e resolução de problemas reais."
     },
-
     "projects": {
         "projects-title": "Projetos",
         "projects-more-button": "Mais Projetos",
-
         "projects-single": {
-            
             "projects-single-prime_consultancy-title": "Prime Assessoria Imobiliária - 2022",
             "projects-single-prime_consultancy-description": "Desenvolvido um site Corporativo, com sistema de painel de controle para os funcionários, geração de relatórios em PDF e salvamento de documentos no banco de dados. As tecnologias usadas foram <b>Front-End (HTML5, CSS3, JavaScript), Bootstrap, PHP e Banco de Dados MySQL</b>.",
-
             "projects-single-my_job-title": "Work No Break - 2024",
             "projects-single-my_job-description": "Contratado para desenvolver o Front-End de um site de prestação de serviços, onde o cliente pode acessá-lo, <b>criar sua conta</b> e solicitar diversos tipos de serviços.<br/>O cliente também pode <b>escolher qual profissional irá realizar o serviço</b>, mostrando foto, localização e feedback do mesmo, o site está <b>disponível para mais de 15 idiomas</b> e é simples e fácil de usar.",
-
             "projects-single-ibca_church-title": "Igreja IBCA App - 2022",
             "projects-single-ibca_church-description": "Criado um aplicativo para a minha igreja, usando <b>React Native e a plataforma do Expo</b> para exportação do aplicativo para <b>IOS & Android</b>.",
-
             "projects-single-dentistry-title": "Dentista/Odontologia - 2023",
             "projects-single-dentistry-description": "Um site mostrando o trabalho de uma odontologia, criado com <b>Vanilla HTML 5 & CSS 3</b>.",
-
             "projects-single-concessionaire-title": "Concessionária Veículos Especiais - 2023",
             "projects-single-concessionaire-description": "Desenvolvido um site para concessionárias usando <b>PHP e Front-End</b>, pode ser facilmente adaptado e vendido para outras concessionárias.",
-
             "projects-single-combat_game-title": "Jogo de Luta JavaScript - 2024",
             "projects-single-combat_game-description": "Um jogo divertido para <b>2 pessoas</b> feito com o básico de JavaScript orientado a objetos.",
-
             "projects-single-digital_agency-title": "Agência Digital - 2022",
             "projects-single-digital_agency-description": "Pequeno projeto desenvolvido como modelo para ser vendido para outras <b>agências digitais</b> que queiram atingir mais clientes.",
-
             "projects-single-rbi_web-title": "RBI Web - 2023",
             "projects-single-rbi_web-description": "<b>Landing Page</b> desenvolvida para uma barbearia que frequento, usada principalmente para divulgar os serviços que a barbearia oferece, o <b>cliente também pode localizar e saber onde ficam as unidades</b> da barbearia.",
-
             "projects-single-weather_station-title": "Estação Meteorológica - 2024",
             "projects-single-weather_station-description": "Aplicativo para <b>IOs e Android</b> onde é possível fazer <b>anotações do clima atual da região</b> e exportá-lo para uma <b>planilha no excel</b>, todas as anotações (Temperatura, Direção do vento, Raios UV) são armazenados em um banco de dados do <b>Firebase</b>, futuramente será possível gerar gráficos no excel com os dados armazenados.",
-
             "projects-single-rbi_app-title": "RBI App - 2023",
             "projects-single-rbi_app-description": "Aplicativo mobile desenvolvido para complementar a <b>versão Web (RBI Web)</b>, feito especificamente para <b>barbearias</b>, onde é possível ver os <b>horários de hoje, agenda, controle de funcionários</b> e etc."
-
         }
-
     },
-
     "knowledge": {
         "knowledge-title": "Meu Conhecimento",
         "knowledge-modal-button": "Mais Sobre Meu Conhecimento <i class='fa-solid fa-plus'></i>",
-
         "knowledge-soft-skills": {
-
             "soft-skills-title": "Soft Skills",
-
-
             "soft-skills-fast_learning": {
                 "soft-skills-fast_learning-title": "Aprendizado Rápido",
                 "soft-skills-fast_learning-description": "Assim como tenho autonomia e fácil adaptação, minha curva de aprendizado é rápida, constante e exponencial."
             },
-
             "soft-skills-team_work": {
                 "soft-skills-team_work-title": "Trabalho em Equipe",
                 "soft-skills-team_work-description": "Amo trabalhar em equipe e aprender com os colegas, evoluir junto com eles e vê-los no sucesso junto comigo é uma missão e um sonho."
             },
-
             "soft-skills-clean_organized": {
                 "soft-skills-clean_organized-title": "Ambiente de Trabalho Limpo e Organizado",
                 "soft-skills-clean_organized-description": "Sou um homem extremamente organizado e que tem TOC ao ver algo fora do lugar ou alguma coisa suja, isso é uma regra para mim."
             },
-
             "soft-skills-autonomy": {
                 "soft-skills-autonomy-title": "Autonomia para resolver Problemas",
                 "soft-skills-autonomy-description": "Se necessário vou até as profundezas da internet para achar a solução de um problema nas aplicações que desenvolvo, não consigo dormir sem ter resolvido um bug antes e com certeza não dependo de outros desenvolvedores para fazer isso."
             },
-
             "soft-skills-respect_empathy": {
                 "soft-skills-respect_empathy-title": "Empatia e Respeito",
                 "soft-skills-respect_empathy-description": "Amar ao próximo e respeitá-lo independente das diferenças é um princípio para mim já que, “Respeito gera respeito“."
             },
-
             "soft-skills-communication": {
                 "soft-skills-communication-title": "Comunicação",
                 "soft-skills-communication-description": "Nos últimos anos venho focando em evoluir minha comunicação com as pessoas, e isso tem me dado resultados incríveis. A arte de se comunicar é linda."
             },
-
             "soft-skills-proactivity_focus": {
                 "soft-skills-proactivity_focus-title": "Proatividade e Foco",
                 "soft-skills-proactivity_focus-description": "Sempre estou me movimentando e fazendo algo, e quando estou parado me pergunto o por quê disso, e logo após isso volto ao foco."
             },
-
             "soft-skills-resilience": {
                 "soft-skills-resilience-title": "Resiliência",
                 "soft-skills-resilience-description": "A grande maioria das pessoas costuma desistir na primeira dificuldade que aparece no meio do caminho, mas eu vou além, desistir não é uma opção para mim. Isso me faz diferente, isso me faz melhor."
             },
-
             "soft-skills-flexibility_adaptation": {
                 "soft-skills-flexibility_adaptation-title": "Flexibilidade e Capacidade de Adaptação",
                 "soft-skills-flexibility_adaptation-description": "Sou flexível e costumo me adaptar facilmente às novas tecnologias e às novas tendências do mercado ao redor do mundo."
             }
-
         }
     },
-
     "contact": {
         "contact-call-to-action-text": "Vamos Conversar?<br />Me mande um e-mail e<br /><strong><a href='mailto:guilhermefortunatopr@gmail.com?subject=Vamos%20Falar%20Sobre%20Negócios&body=Olá%20Guilherme...' target='_blank' title='Entre Em Contato Comigo'>Entre Em Contato Comigo.</a></strong>"
     },
-
     "projects-modal": {
         "projects-modal-pre-title": "Projeto",
-
         "projects-modal-button-deployed": "Projeto no Ar",
         "projects-modal-button-repository": "Repositório no Github",
-
         "projects-modal-single": {
-
             "projects-modal-single-prime_consultancy": {
                 "projects-modal-single-title": "Prime Assessoria Imobiliária",
                 "projects-modal-single-tags": "Website - Dashboard - Geração de PDF",
                 "projects-modal-single-description": "Desenvolvido um site complexo com <b>Painel de Controle</b> e entre outras funcionalidades que agilizaram em até <b>100%</b> os processos e resultados da empresa, as principais tecnologias e bibliotecas utilizadas foram <b>Front-End</b> usando <b>JQuery e Bootstrap</b> como bibliotecas, <b>Back-End</b> usando <b>FPDF (Gerador de PDF) e PHPMailer (Envia E-mails)</b> como bibliotecas e <b>Banco de Dados MySQL</b> para armazenar todas as informações de clientes, processos e etc. <br/> Também foi desenvolvido um <b>Sistema de Backup</b> para o Banco de Dados por segurança caso tenha algum problema que afete os dados."
             },
-
             "projects-modal-single-my_job": {
                 "projects-modal-single-title": "Work No Break",
                 "projects-modal-single-tags": "Website - API - Contratação de Serviços",
                 "projects-modal-single-description": "O site foi desenvolvido usando <b>Vanilla HTML5, CSS3 e jQuery</b>, o design foi criado no <b>Figma</b> e foi utilizado <b>Firebase</b> como servidor principal do projeto, meu trabalho foi <b>desenvolver o Front-End e conectá-lo à API que já estava pronta para ser utilizada</b>.<br/>Através do site o cliente também consegue acessar a página do cliente que mostra os serviços em andamento e outras informações.<br/>Também foi utilizada a API do Google Maps para busca de endereço (cidade e bairro).<br/>O site não utiliza nenhum tipo de framework ou coisa do tipo, <b>tudo feito à mão.</b>"
             },
-
             "projects-modal-single-ibca_church": {
                 "projects-modal-single-title": "Igreja IBCA App",
                 "projects-modal-single-tags": "Aplicativo - Controle de Informações - Datas e Anotações Dinâmicas",
                 "projects-modal-single-description": "Um aplicativo criado para a igreja em que frequento, desenvolvido principalmente para ter como anotação as datas e eventos da igreja, também podendo se registrar membros que estão participando do <b>Grupo de Jovens</b> da igreja, desenvolvido tudo em <b>React Native</b> utilizando a plataforma do <b>Expo</b> para se exportar o aplicativo para <b>Android e IOS</b>."
             },
-
             "projects-modal-single-dentistry": {
                 "projects-modal-single-title": "Odontologia",
                 "projects-modal-single-tags": "Website - Estático",
                 "projects-modal-single-description": "Outro projeto que também foi desenvolvido e veio do curso de <b>Front-End Webmaster</b> da <b>Danki Code</b> mas que também pode ser facilmente adaptado e criado novas variações do site que podem ser vendidas para <b>Odontologias</b>, criado usando <b>Vanilla HTML5 e CSS3</b>.<br/>O site serve para <b>demonstrar o trabalho da Odontologia</b>, ele <b>pode ser atualizado e implementado um painel que mostra as consultas do dia para os dentistas.</b>"
             },
-
             "projects-modal-single-concessionaire": {
                 "projects-modal-single-title": "Concessionária de Carros Especiais",
                 "projects-modal-single-tags": "Website - Multi-Páginas - Carregamento Dinâmico de Páginas",
                 "projects-modal-single-description": "Esse projeto foi tirado do curso de <b>Back-End</b> da <b>Danki Code</b>, um projeto um pouco mais complexo que pegou o site desenvolvido no curso de <b>Front-End</b> onde foi melhorado e implantando o <b>PHP</b>.<br/>O cliente pode entrar em contato com a concessionária através do site, <b>Ele pode ver de perto os veículos que a concessionária vende, com especificação e valor do carro</b> isso agilizou em até <b>9 vezes</b> os processos da concessionária, <b>trazendo produtividade, agilidade e resultados rápidos para a concessionária</b>."
             },
-
             "projects-modal-single-combat_game": {
                 "projects-modal-single-title": "Jogo de Luta",
                 "projects-modal-single-tags": "Jogo - Orientado a Objetos - Animações",
                 "projects-modal-single-description": "Minha turma do colégio precisava de um jogo para ser apresentado na <b>feira de profissões</b> desse ano, e então desenvolvi esse <b>jogo em JavaScript</b>. Simples mas funcional."
             },
-
             "projects-modal-single-digital_agency": {
                 "projects-modal-single-title": "Agência Digital",
                 "projects-modal-single-tags": "Voltado Para Vendas - Estático",
                 "projects-modal-single-description": "Template básico mas que funciona muito bem para <b>captar mais clientes e empresas</b> para <b>fecharem negócio com sua agência.</b>"
             },
-
             "projects-modal-single-rbi_web": {
                 "projects-modal-single-title": "RBI Web",
                 "projects-modal-single-tags": "Website - Barbearia - Divulgação de Serviços",
                 "projects-modal-single-description": "Site estático, voltado para vendas e para que o <b>cliente conheça mais sobre a barbearia.</b><br/>O dono da barbearia conseguiu ter um controle <b>7x</b> maior dos clientes que faziam agendamentos, também fez com que o cliente conhecesse o trabalho do barbeiro, <b>levando assim a um agendamento.</b>"
             },
-
             "projects-modal-single-weather_station": {
                 "projects-modal-single-title": "Estação Meteorológica",
                 "projects-modal-single-tags": "Aplicativo - React Native - Planilhas no Excel",
                 "projects-modal-single-description": "Um projeto social da minha escola que se chamava <b>Estação Meteorológica</b> precisava ter <b>mais agilidade no processo de anotação</b> dos dados da estação, e então fui chamado para <b>desenvolver esse aplicativo</b> para que os alunos que fizessem parte do projeto pudessem fazer as <b>anotações e exportá-las</b> de forma <b>100x mais rápida.</b>"
             },
-
             "projects-modal-single-rbi_app": {
                 "projects-modal-single-title": "RBI App",
                 "projects-modal-single-tags": "Mobile - Barbearia - Gestão de Negócio",
                 "projects-modal-single-description": "Desenvolvido e criado com o poderoso <b>React Native</b> juntamente com a tecnologia do <b>Expo</b>, atualmente o projeto foi <b>descontinuado</b> mas pode ser facilmente adaptado e vendido para outras barbearias.<br/>Através do aplicativo o dono da barbearia tinha o controle dos seus estabelecimentos, <b>aumentando a produtividade em até 21x</b>, além de que todo agendamento feito pelo site aparece no aplicativo, <b>esses e diversos outros problemas foram resolvidos através do aplicativo e do site.</b>"
             }
-            
         }
     },
-
     "knowledge-modal": {
         "knowledge-modal-subtitle-courses": "Cursos & Escolas",
-        "knowledge-modal-courses":{
+        "knowledge-modal-courses": {
+            "knowledge-modal-formation-eng_software-title": "Engenharia de Software - Uninter - 2030",
+            "knowledge-modal-formation-eng_software-description": "Ingressei na Uninter para cursar Engenharia de Software na modalidade EAD, com previsão de conclusão para 2030.",
 
-            "knowledge-modal-courses-dankicode-title": "Danki Code - FullStack Master",
+            "knowledge-modal-courses-dankicode-title": "Danki Code - FullStack Master - 2026",
             "knowledge-modal-courses-dankicode-description": "Pacote FullStack Master da Danki Code onde dentro dele possuem <b>mais de 25 cursos</b> te preparando pra ser um verdadeiro desenvolvedor web, grande parte do meu conhecimento web veio de lá.",
 
-            "knowledge-modal-courses-alura1-title": "Alura - Análise e Desenvolvimento de Sistemas",
+            "knowledge-modal-courses-alura1-title": "Análise e Desenvolvimento de Sistemas - Alura - 2025",
             "knowledge-modal-courses-alura1-description": "Um curso ofertado pelo governo do Paraná através do <b>Novo Ensino médio</b>, aprendi um pouco sobre requisição de dados, modelo cascata, etc.",
 
-            "knowledge-modal-courses-alura2-title": "Alura - Desenvolvimento Iniciante de Games",
+            "knowledge-modal-courses-alura2-title": "Desenvolvimento Iniciante de Games - Alura - 2021",
             "knowledge-modal-courses-alura2-description": "Através do programa <b>Edutech</b> que aconteceu em 2021, eu participei e tive acesso à cursos da Alura que ensinavam como desenvolver jogos básicos usando <b>Scratch, JavaScript & GameMaker Studio</b>.",
 
-            "knowledge-modal-courses-high_school-title": "Análise e Desenvolvimento de Sistemas - Novo Ensino Médio 3º Ano - Paraná",
-            "knowledge-modal-courses-high_school-description": "Estou atualmente no 3º ano do Novo Ensino Médio cursando o técnico de <b>Análise e Desenvolvimento de Sistemas</b> que tem uma duração total de 3 anos."
-
+            "knowledge-modal-courses-high_school-title": "Análise e Desenvolvimento de Sistemas - Novo Ensino Médio - 2025",
+            "knowledge-modal-courses-high_school-description": "Me formei no Novo Ensino Médio cursando o técnico em <b>Análise e Desenvolvimento de Sistemas</b> que teve uma duração total de 3 anos."
         },
-
         "knowledge-modal-subtitle-certificates": "Certificados",
-        "knowledge-modal-certificates":{
-
+        "knowledge-modal-certificates": {
             "knowledge-modal-certificates-programming_logic-title": "Lógica de Programação - Danki Code",
             "knowledge-modal-certificates-programming_logic-description": "A lógica de programação é a base de tudo no mundo da programação.",
-
             "knowledge-modal-certificates-front_end-title": "Front-End - Danki Code",
             "knowledge-modal-certificates-front_end-description": "Ensinando desde o básico e os fundamentos do Front-End até conceitos mais avançados.",
-
             "knowledge-modal-certificates-front_end2-title": "Front-End 2.0 - Danki Code",
             "knowledge-modal-certificates-front_end2-description": "O curso ensinava o Front-End de uma forma mais moderna, usando as tags mais recentes do <b>HTML 5</b> como <b>header, section, footer, etc</b> e também usando <b>flexbox</b> deixando o <b>float</b> para o passado.",
-
             "knowledge-modal-certificates-web_design-title": "Design Web - Danki Code",
             "knowledge-modal-certificates-web_design-description": "Ensinado sobre <b>User Experience (UX)</b> e as melhores formas de se criar um design bonito, chamativo e saudável para seu negócio.",
-
             "knowledge-modal-certificates-javascript-title": "JavaScript - Danki Code",
             "knowledge-modal-certificates-javascript-description": "Uma linguagem de programação famosa e poderosa usada principalmente no <b>Desenvolvimento Web</b>.",
-
             "knowledge-modal-certificates-app_development-title": "Desenvolvimento de Aplicativos - Danki Code",
             "knowledge-modal-certificates-app_development-description": "Aprendido como desenvolver aplicativos usando a <b>Biblioteca JavaScript</b> mais famosa para se desenvolver aplicativos para <b>Android</b> e <b>IOS</b> que seria o <b>React Native</b>.",
-
             "knowledge-modal-certificates-firebase-title": "Firebase - Danki Code",
             "knowledge-modal-certificates-firebase-description": "O curso ensina como hospedar suas aplicações usando a poderosa plataforma baseada em nuvem do <b>Google</b>.",
-
             "knowledge-modal-certificates-php-title": "PHP - Danki Code",
             "knowledge-modal-certificates-php-description": "Ensinado sobre PHP, seus fundamentos e aprofundamento sobre a linguagem.",
-
             "knowledge-modal-certificates-database-title": "Banco De Dados - Danki Code",
             "knowledge-modal-certificates-database-description": "Um curso que ensina os principais banco de dados usados relacional e não relacional que seriam respectivamente <b>MySQL</b> e <b>MongoDB</b>.",
-
             "knowledge-modal-certificates-english_for_programmers-title": "Inglês Para Programadores - Danki Code",
             "knowledge-modal-certificates-english_for_programmers-description": "Aprendido um pouco do inglês mais voltado para programadores e seus conceitos técnicos.",
-
             "knowledge-modal-certificates-alura_all_certificates-title": "Todos os Certificados - Alura",
             "knowledge-modal-certificates-alura_all_certificates-description": "Todos os cursos feitos e suas respectivas cargas horárias ao longo de toda minha jornada estudando na <b>Alura</b>."
-
         },
-
         "knowledge-modal-subtitle-idioms": "Idiomas",
-        "knowledge-modal-idioms":{
+        "knowledge-modal-idioms": {
             "idioms-brazilian-portuguese": "Português Brasileiro (Nativo)",
             "idioms-english-united-states": "Inglês Estados Unidos",
             "idioms-spanish": "Espanhol",
             "idioms-italian": "Italiano"
         }
     },
-
     "cookies": {
         "cookies-text": "Utilizo <strong>cookies</strong> para tornar sua experiência por aqui mais fluida e personalizada.",
-
         "cookies-accept-button": "Eu Aceito"
     },
-
     "footer": {
         "footer-all-rights-reserved": "&copy; 2026 - Desenvolvido e criado por Guilherme Fortunato Machado"
     }
-
 }

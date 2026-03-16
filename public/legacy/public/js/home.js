@@ -98,11 +98,11 @@ $(function () {
     })
 
     // (Not Modal) Project Single Expand Image Click
-    ProjectsSingle.find('div.projects-single-image').click((e)=>{
+    ProjectsSingle.find('div.projects-single-image').click((e) => {
 
-        let imageToExpand = $(e.currentTarget).find('img'); 
+        let imageToExpand = $(e.currentTarget).find('img');
 
-        if(imageToExpand){
+        if (imageToExpand) {
             ExpandImage(imageToExpand.attr('src'))
 
         };
@@ -113,7 +113,7 @@ $(function () {
     const ExpandImageContainer = $('body div.project-image-expanded-container');
     const ExpandImageElement = $('#projectImageExpanded');
 
-    function ExpandImage(image){
+    function ExpandImage(image) {
 
         Body.addClass('modal-prevent-scroll');
 
@@ -128,9 +128,9 @@ $(function () {
     $('.project-image-expanded-close').click(CloseExpandImage);
 
     // Expand Image - Custom Modal
-    function CloseExpandImage(){
-        
-        if(!CurrentModal){
+    function CloseExpandImage() {
+
+        if (!CurrentModal) {
             Body.removeClass('modal-prevent-scroll');
 
         }
@@ -145,22 +145,16 @@ $(function () {
     ////////////////////////////////////////////////
     // Knowledge/Technologies Functions 
     const IClassList = [
-        'fa-brands fa-html5',
-        'fa-brands fa-css3',
-        'fa-brands fa-sass',
-        'fa-brands fa-bootstrap',
-        'fa-brands fa-square-js',
-        'fa-brands fa-react',
-        'fa-brands fa-angular',
-        'fa-brands fa-node-js',
-        'fa-brands fa-php',
-        'fa-solid fa-database',
-        'fa-solid fa-moon',
-        'fa-brands fa-java',
-        'fa-brands fa-wordpress',
-        'fa-brands fa-git-alt',
-        'fa-brands fa-docker',
-        'fa-brands fa-aws',
+        "fa-brands fa-js",
+        "fa-solid fa-code",
+        "fa-brands fa-react",
+        "fa-solid fa-layer-group",
+        "fa-brands fa-node-js",
+        "fa-brands fa-php",
+        "fa-solid fa-diagram-project",
+        "fa-solid fa-database",
+        "fa-brands fa-git-alt",
+        "fa-brands fa-docker",
     ]
     var CurrentIClass = 1;
 
@@ -387,7 +381,7 @@ $(function () {
             }
 
             // Modal -> Image Expand
-            ModalProjectImageConnectClick = ModalProjectInfoImage.click(()=>{
+            ModalProjectImageConnectClick = ModalProjectInfoImage.click(() => {
                 ExpandImage(ProjectInfoImage)
 
             })
@@ -428,17 +422,17 @@ $(function () {
         ProjectInfoDiv = null;
 
         ProjectInfoTitle = null;
-    
+
         ProjectInfoImage = null;
 
         ModalProjectImageConnectClick.unbind('click');
         ModalProjectImageConnectClick = null;
-    
+
         ProjectInfoTags = null;
         ProjectInfoDescription = null;
-    
+
         ProjectInfoTechnologies = null;
-    
+
         ProjectInfoDeployLink = null;
         ProjectInfoRepositoryLink = null;
 

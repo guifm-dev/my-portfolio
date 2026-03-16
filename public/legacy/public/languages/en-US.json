@@ -8,6 +8,7 @@
         "beginner-text": "Beginner",
         "intermediate-text": "Intermediary",
         "advanced-text": "Advanced",
+        "fluent-text": "Fluent",
 
         "certified-link": "Certified Link"
     },
@@ -33,7 +34,7 @@
 
     "about-me": {
         "about-me-title": "About Me",
-        "about-me-text": "Hello, my name is Guilherme Fortunato Machado, I am currently <strong>18 years old</strong> and I live in Brazil, since I was 9 years old I have had contact with programming and game development, at 12 years old I created my first website, I made the <strong>Fullstack course from Danki Code</strong> and today I have certificates as <strong>Game Developer, Web Developer and Application Programmer</strong>, I have knowledge in languages such as <strong>PHP, JavaScript and Lua</strong> as a programming language for games. <strong>I'm interested in work or freelance work in the Fullstack or Mobile area</strong>, and I'm also learning <strong>Python</strong> and in the future <strong>Ruby</strong>. I have knowledge in technologies such as <strong>React JS, React Native and a little NodeJS</strong>, Front-End Frameworks such as <strong>Bootstrap, Materialize and SASS</strong>, and in databases what I have I have more knowledge of <strong>MySQL</strong>, I also have some knowledge of <strong>MongoDB</strong>."
+        "about-me-text": "Hello! My name is Guilherme Fortunato Machado. I am <strong>18 years old</strong> and a <strong>FullStack Web Developer</strong> with hands-on experience in production projects and freelance work. I build modern applications using <strong>JavaScript and TypeScript</strong>, working across both front-end and back-end with technologies such as <strong>React, Next.js, Node.js, Deno and REST/GraphQL APIs</strong>, focusing on scalable and well-structured solutions. I have experience with <strong>MongoDB, MySQL and PostgreSQL</strong>, as well as tools and practices like <strong>Git/GitHub, Docker, end-to-end testing with Cypress, Clean Architecture and DDD</strong>. I'm interested in <strong>FullStack or Mobile development opportunities</strong> focused on building real products and solving business problems."
     },
 
     "projects": {
@@ -70,7 +71,7 @@
             "projects-single-weather_station-description": "Application for <b>IOs and Android</b> where you can make <b>notes of the region's current climate</b> and export it to an <b>excel spreadsheet</b>, all notes (Temperature, Wind direction, UV rays) are stored in a <b>Firebase</b> database, in the future it will be possible to generate graphs in Excel with the stored data.",
 
             "projects-single-rbi_app-title": "RBI App - 2023",
-            "projects-single-rbi_app-description": "Mobile application developed to complement the <b>Web version (RBI Web)</b>, made specifically for <b>barbershops</b>, where you can see <b>today's schedule, agenda, employee control< /b> and so on."
+            "projects-single-rbi_app-description": "Mobile application developed to complement the <b>Web version (RBI Web)</b>, made specifically for <b>barbershops</b>, where you can see <b>today's schedule, agenda, employee control</b> and so on."
 
         }
 
@@ -211,18 +212,20 @@
     "knowledge-modal": {
         "knowledge-modal-subtitle-courses": "Courses & Schools",
         "knowledge-modal-courses":{
+            "knowledge-modal-formation-eng_software-title": "Software Engineering - Uninter - 2030",
+            "knowledge-modal-formation-eng_software-description": "I enrolled at Uninter to study Software Engineering in the distance learning modality, with an expected completion date of 2030.",
 
-            "knowledge-modal-courses-dankicode-title": "Danki Code - FullStack Master",
+            "knowledge-modal-courses-dankicode-title": "FullStack Master - Danki Code - 2026",
             "knowledge-modal-courses-dankicode-description": "Danki Code's FullStack Master package, which contains <b>more than 25 courses</b> preparing you to be a true web developer, a large part of my web knowledge came from there.",
 
-            "knowledge-modal-courses-alura1-title": "Alura - Systems Analysis and Development",
+            "knowledge-modal-courses-alura1-title": "Systems Analysis and Development - Alura - 2025",
             "knowledge-modal-courses-alura1-description": "A course offered by the government of Paraná through <b>New Secondary Education</b>, I learned a little about data request, waterfall model, etc.",
 
-            "knowledge-modal-courses-alura2-title": "Alura - Beginner Game Development",
+            "knowledge-modal-courses-alura2-title": "Beginner Game Development - Alura - 2021",
             "knowledge-modal-courses-alura2-description": "Through the <b>Edutech</b> program that took place in 2021, I participated and had access to Alura courses that taught how to develop basic games using <b>Scratch, JavaScript & GameMaker Studio</b>.",
 
-            "knowledge-modal-courses-high_school-title": "Systems Analysis and Development - New High School 3rd Year - Paraná",
-            "knowledge-modal-courses-high_school-description": "I am currently in the 3rd year of New High School studying <b>Systems Analysis and Development</b> which lasts a total of 3 years."
+            "knowledge-modal-courses-high_school-title": "Systems Analysis and Development - New High School - 2025",
+            "knowledge-modal-courses-high_school-description": "I graduated from the New High School program with a technical degree in <b>Systems Analysis and Development</b>, which lasted a total of 3 years."
 
         },
 

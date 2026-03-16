@@ -8,6 +8,7 @@
         "beginner-text": "Principiante",
         "intermediate-text": "Intermediario",
         "advanced-text": "Avanzado",
+        "fluent-text": "Fluido",
 
         "certified-link": "Enlace Certificado"
     },
@@ -33,7 +34,7 @@
 
     "about-me": {
         "about-me-title": "Acerca de Mí",
-        "about-me-text": "Hola, mi nombre es Guilherme Fortunato Machado, actualmente tengo <strong>18 años</strong> y vivo en Brasil, desde los 9 años he tenido contacto con la programación y el desarrollo de juegos, a los 12 años creé mi primer sitio web, realicé el <strong>curso Fullstack de Danki Code</strong> y hoy tengo certificados como <strong>Desarrollador de Juegos, Desarrollador Web y Programador de Aplicaciones</strong>, tengo conocimientos en idiomas como <strong>PHP, JavaScript y Lua</strong> como lenguaje de programación para juegos. <strong>Estoy interesado en trabajar o trabajar como freelance en el área Fullstack o Mobile</strong>, y también estoy aprendiendo <strong>Python</strong> y en un futuro <strong>Ruby</strong>. Tengo conocimientos en tecnologías como <strong>React JS, React Native y un poco NodeJS</strong>, Front-End Frameworks como <strong>Bootstrap, Materialize y SASS</strong>, y en bases de datos lo que tengo más conocimientos de <strong>MySQL</strong>, también tengo algunos conocimientos de <strong>MongoDB</strong>."
+        "about-me-text": "¡Hola! Mi nombre es Guilherme Fortunato Machado, tengo <strong>18 años</strong> y soy <strong>Desarrollador Web FullStack</strong> con experiencia práctica en proyectos en producción y trabajos freelance. Desarrollo aplicaciones modernas utilizando <strong>JavaScript y TypeScript</strong>, trabajando tanto en el front-end como en el back-end con tecnologías como <strong>React, Next.js, Node.js, Deno y APIs REST/GraphQL</strong>, enfocándome en crear soluciones escalables y bien estructuradas. Tengo experiencia con <strong>MongoDB, MySQL y PostgreSQL</strong>, además de herramientas y prácticas como <strong>Git/GitHub, Docker, pruebas E2E con Cypress, Clean Architecture y DDD</strong>. Estoy interesado en <strong>oportunidades o proyectos FullStack o Mobile</strong> enfocados en la creación de productos y resolución de problemas reales."
     },
 
     "projects": {
@@ -212,17 +213,20 @@
         "knowledge-modal-subtitle-courses": "Cursos y Escuelas",
         "knowledge-modal-courses":{
 
-            "knowledge-modal-courses-dankicode-title": "Danki Code - FullStack Master",
+            "knowledge-modal-formation-eng_software-title": "Ingeniería de Software - Uninter - 2030",
+            "knowledge-modal-formation-eng_software-description": "Me matriculé en Uninter para estudiar Ingeniería de Software en la modalidad de aprendizaje a distancia, con fecha de finalización prevista para 2030.",
+
+            "knowledge-modal-courses-dankicode-title": "FullStack Master - Danki Code - 2026",
             "knowledge-modal-courses-dankicode-description": "Paquete Danki Code Full Stack Master, el cual contiene <b>más de 25 cursos</b> que te preparan para ser un verdadero desarrollador web, gran parte de mi conocimiento web vino de ahí.",
 
-            "knowledge-modal-courses-alura1-title": "Alura - Análisis y Desarrollo de Sistemas",
+            "knowledge-modal-courses-alura1-title": "Análisis y Desarrollo de Sistemas - Alura - 2025",
             "knowledge-modal-courses-alura1-description": "En un curso ofrecido por el gobierno de Paraná a través de <b>Nueva Educación Secundaria</b>, aprendí un poco sobre solicitud de datos, modelo en cascada, etc.",
 
-            "knowledge-modal-courses-alura2-title": "Alura - Desarrollo de juegos para principiantes",
+            "knowledge-modal-courses-alura2-title": "Desarrollo de juegos para principiantes - Alura - 2021",
             "knowledge-modal-courses-alura2-description": "A través del programa <b>Edutech</b> que se llevó a cabo en el 2021, participé y tuve acceso a los cursos de Alura que enseñaban a desarrollar juegos básicos usando <b>Scratch, JavaScript & GameMaker Studio</b>.",
 
-            "knowledge-modal-courses-high_school-title": "Análisis y Desarrollo de Sistemas - Nueva Escuela Secundaria 3do Año - Paraná",
-            "knowledge-modal-courses-high_school-description": "Actualmente estoy en el 3do año de New High School estudiando <b>Análisis y Desarrollo de Sistemas</b> el cual tiene una duración total de 3 años."
+            "knowledge-modal-courses-high_school-title": "Análisis y Desarrollo de Sistemas - Nueva Escuela Secundaria - 2025",
+            "knowledge-modal-courses-high_school-description": "Me gradué del programa de la Nueva Escuela Secundaria con un título técnico en <b>Análisis y Desarrollo de Sistemas</b>, que duró un total de 3 años."
 
         },
 

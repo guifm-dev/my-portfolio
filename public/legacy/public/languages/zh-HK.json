@@ -8,6 +8,7 @@
         "beginner-text": "初學者",
         "intermediate-text": "中介",
         "advanced-text": "先進的",
+        "fluent-text": "流暢",
 
         "certified-link": "認證連結"
     },
@@ -33,7 +34,7 @@
 
     "about-me": {
         "about-me-title": "關於我",
-        "about-me-text": "您好，我叫 Guilherme Fortunato Machado，我目前 <strong>18 歲</strong>，我住在巴西，從 9 歲起我就開始接觸程式設計和遊戲開發，12 歲時我創建了我的第一個網站，我從Danki Code 製作了<strong>全端課程</strong>，今天我擁有了<strong>遊戲開發人員、Web 開發人員和應用程式程式設計師</strong>的證書，我擁有諸如等語言的知識>PHP、JavaScript 和 Lua</strong> 作為遊戲程式語言。 <strong>我對 Fullstack 或行動領域的工作或自由職業感興趣</strong>，我也在學習 <strong>Python</strong> 以及未來的 <strong>Ruby</strong>。我擁有 <strong>React JS、React Native 和一點 NodeJS</strong> 等技術知識，以及 <strong>Bootstrap、Materialize 和 SASS</strong> 等前端框架，以及我所擁有的資料庫知識對<strong>MySQL </strong>有更多的了解，我對<strong>MongoDB</strong>也有一些了解。"
+        "about-me-text": "你好！我叫 Guilherme Fortunato Machado, 今年 <strong>18 歲</strong>，是一名 <strong>FullStack Web 開發者</strong>，擁有實際產品專案與自由接案的開發經驗。我使用 <strong>JavaScript 與 TypeScript</strong> 開發現代化應用，並在前端與後端使用 <strong>React、Next.js、Node.js、Deno 以及 REST/GraphQL APIs</strong> 等技術，專注於打造可擴展且結構良好的軟體解決方案。我具備 <strong>MongoDB、MySQL 與 PostgreSQL</strong> 等資料庫經驗，也熟悉 <strong>Git/GitHub、Docker、Cypress E2E 測試、Clean Architecture 與 DDD</strong> 等工具與開發實踐。我對 <strong>FullStack 或 Mobile 開發相關的機會與專案</strong> 非常感興趣，專注於打造真正有價值的產品與解決方案。"
     },
 
     "projects": {
@@ -215,17 +216,20 @@
         "knowledge-modal-subtitle-courses": "課程和學校",
         "knowledge-modal-courses":{
 
-            "knowledge-modal-courses-dankicode-title": "Danki 程式碼 - FullStack Master",
+            "knowledge-modal-formation-eng_software-title": "軟體工程 - 無 - 2030",
+            "knowledge-modal-formation-eng_software-description": "我已報名參加 Uninter 的遠距軟體工程課程，預計於 2030 年畢業。",
+
+            "knowledge-modal-courses-dankicode-title": "FullStack Master - Danki 程式碼 - 2026",
             "knowledge-modal-courses-dankicode-description": "Danki Code 的 FullStack Master 包，其中包含<b>超過 25 門課程</b>，幫助您成為真正的 Web 開發人員，我的大部分 Web 知識都來自那裡。",
 
-            "knowledge-modal-courses-alura1-title": "Alura - 系統分析與開發",
+            "knowledge-modal-courses-alura1-title": "系統分析與開發 - Alura - 2025",
             "knowledge-modal-courses-alura1-description": "巴拉那州政府透過<b>新中等教育</b>提供的課程，了解了一些資料請求、瀑布模型等。",
 
-            "knowledge-modal-courses-alura2-title": "Alura - 初級遊戲開發",
+            "knowledge-modal-courses-alura2-title": "初級遊戲開發 - Alura - 2021",
             "knowledge-modal-courses-alura2-description": "透過 2021 年舉辦的​​ <b>Edutech</b> 計劃，我參與並訪問了 Alura 課程，這些課程教授如何使用 <b>Scratch、JavaScript 和 GameMaker Studio</b> 開發基本遊戲。",
 
-            "knowledge-modal-courses-high_school-title": "系統分析與發展 - 新高中二年級 - Paraná",
-            "knowledge-modal-courses-high_school-description": "我目前正在新高中學習三年級的<b>系統分析與開發</b>，總共持續了三年。"
+            "knowledge-modal-courses-high_school-title": "系統分析與發展 - 新高中 - 2025",
+            "knowledge-modal-courses-high_school-description": "我從新高中課程畢業，獲得了系統分析與開發專業的技職學位，該課程總共持續了 3 年。"
 
         },
 

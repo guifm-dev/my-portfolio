@@ -340,17 +340,13 @@ section.knowledge .container>div {
 }
 
 .technologies-single-box i {
-    font-size: 43px;
+    font-size: 30px;
     margin-left: -15px;
     margin-right: 15px;
 }
 
-.technologies-single-box i.fa-database{
-    font-size: 38px;
-}
-
 .technologies-single-box h2 {
-    font-size: 25px;
+    font-size: 22px;
     font-weight: var(--section-text-font-weight);
 }
 
@@ -410,7 +406,7 @@ section.knowledge .container>div {
 }
 
 .technologies-dynamic-icon i {
-    font-size: 300px;
+    font-size: 200px;
     color: var(--global-default-color);
     width: 100%;
     transition: none;
