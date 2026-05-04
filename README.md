@@ -1,4 +1,4 @@
-# My Portfolio v2
+# My Portfolio
 
 A minimalist, high-performance personal portfolio built as a single-page application to present my work, technical background, and current digital presence with a clean user experience.
 
