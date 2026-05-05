@@ -9,7 +9,7 @@
     "build": "vite build",
     "preview": "vite preview"
   },
-  "repository": "https://github.com/DeepLakePR/My-Portfolio.git",
+  "repository": "https://github.com/guifm-dev/my-portfolio.git",
   "author": "Guilherme Fortunato <guilhermefortunato671@gmail.com>",
   "license": "MIT",
   "private": true,
