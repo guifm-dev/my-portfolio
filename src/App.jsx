@@ -53,8 +53,8 @@ async function loadLegacyScript(src) {
 
 function App() {
 	useEffect(() => {
-		document.documentElement.lang = "en";
-		document.title = "Guilherme Fortunato";
+		document.documentElement.lang = "pt-BR";
+		document.title = "Guilherme Fortunato | Full-Stack Developer";
 
 		const favicon =
 			document.querySelector('link[rel="shortcut icon"]') ||
@@ -124,7 +124,7 @@ function App() {
 				{/* class header-transparent */}
 				<div className="container flex">
 					<div className="header-logo w10 flex">
-						<a href="./" title="Guilherme Fortunatoeloper">
+						<a href="./" title="Guilherme Fortunato | Full-Stack Developer">
 							<img
 								src="/legacy/public/assets/logo.png"
 								alt="Guilherme Fortunato Machado Portfólio"
