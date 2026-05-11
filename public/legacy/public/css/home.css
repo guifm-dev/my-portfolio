@@ -45,6 +45,7 @@ section.apresentation {
 .apresentation .apresentation-social_media a {
     color: var(--global-default-color);
     font-size: 40px;
+    margin: 0 3px;
     padding: 2px;
 }
 

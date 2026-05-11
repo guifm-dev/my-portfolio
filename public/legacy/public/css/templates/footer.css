@@ -41,7 +41,7 @@ footer .footer-navigation li a{
 footer .footer-social_media a{
     color: var(--global-default-color);;
     font-size: 25px;
-    margin: 0 1px;
+    margin: 0 3px;
     transition: none;
 }
 
