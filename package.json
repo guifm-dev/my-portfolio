@@ -14,7 +14,13 @@
   "license": "MIT",
   "private": true,
   "devDependencies": {
+    "@types/react": "^19.2.14",
+    "@types/react-dom": "^19.2.3",
     "@vitejs/plugin-react": "^5.0.4",
+    "autoprefixer": "^10.5.0",
+    "postcss": "^8.5.14",
+    "tailwindcss": "^4.3.0",
+    "typescript": "^6.0.3",
     "vite": "^7.3.1"
   },
   "dependencies": {
@@ -22,7 +28,6 @@
     "framer-motion": "^12.23.24",
     "lottie-react": "^2.4.1",
     "react": "^19.1.1",
-    "react-dom": "^19.1.1",
-    "tailwindcss": "^4.2.0"
+    "react-dom": "^19.1.1"
   }
 }
