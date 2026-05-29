@@ -10,4 +10,9 @@
 - professional experience
 - projects (stack tags too, like about, text tags showing what stack is used for develop the project)
 - academic formattion
-- footer (contact information like: "gostou do meu trabalho? vamos conversar")
+- footer (contact information with text: "gostou do meu trabalho? vamos conversar")
+
+## Design ideas:
+- https://lovable.dev/projects/de3a73d1-e5c3-4866-a716-9ea5ea02f2e3
+- https://v0.app/chat/developer-portfolio-landing-page-c9gHxuGaYxX
+- https://bolt.new/~/sb1-cfqd3dl4
