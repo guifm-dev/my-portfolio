@@ -45,5 +45,5 @@
     "vite-prerender-plugin": "^0.5.13",
     "vite-ssg": "^28.3.0"
   },
-  "packageManager": "yarn@4.15.0"
+  "packageManager": "yarn@1.22.22"
 }
