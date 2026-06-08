@@ -60,7 +60,7 @@ export const en = {
             },
             {
                 degree: "Systems Analysis and Development",
-                school: "Technical · Colégio Júlio Szymanski",
+                school: "Technical · College Júlio Szymanski",
                 period: "2023 — 2025",
             },
         ],

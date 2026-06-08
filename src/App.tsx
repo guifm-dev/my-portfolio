@@ -140,11 +140,11 @@ function App() {
 						className="order-first sm:order-last"
 					>
 						<motion.img
-							src="/photo.jpg"
-							alt="Guilherme Fortunato — Full-Stack Developer"
+							src="/assets/photo.webp"
+							alt="Foto de perfil de Guilherme Fortunato"
 							title="Guilherme Fortunato — Full-Stack Developer"
-							width={768}
-							height={960}
+							width={400}
+							height={400}
 							whileHover={{ scale: 1.03 }}
 							transition={{ duration: 0.6, ease }}
 							className="h-40 w-40 object-cover sm:h-48 sm:w-48"
@@ -215,7 +215,7 @@ function App() {
 								transition={{ type: "spring", stiffness: 200, damping: 24 }}
 								className="group py-8"
 							>
-								<a href={p.link} target="_blank">
+								<a href={p.link} target="_blank" rel="noopener noreferrer">
 									<div className="flex items-start justify-between gap-4">
 
 										<div className="flex-1">
@@ -299,7 +299,8 @@ function App() {
 							<a
 								href={t("contact.emailLink")}
 								target="_blank"
-								className="mt-2 inline-block text-base hover:underline underline-offset-4">
+								className="mt-2 inline-block text-base hover:underline underline-offset-4"
+								rel="noopener noreferrer">
 								hello@guifm.dev
 							</a>
 						</div>
@@ -310,12 +311,14 @@ function App() {
 							</p>
 
 							<div className="mt-2 flex flex-col gap-1 text-base">
-								<a href="https://www.github.com/guifm-dev" target="_blank"
+								<a href="https://www.github.com/guifm-dev" target="_blank" 
+									rel="noopener noreferrer"
 									className="hover:underline underline-offset-4">
 									GitHub
 								</a>
 
-								<a href="https://www.linkedin.com/in/guilherme-fortunato-machado" target="_blank"
+								<a href="https://www.linkedin.com/in/guilherme-fortunato-machado" target="_blank" 
+									rel="noopener noreferrer"
 									className="hover:underline underline-offset-4">
 									LinkedIn
 								</a>
