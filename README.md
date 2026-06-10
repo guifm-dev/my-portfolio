@@ -1,41 +1,59 @@
-# My Portfolio
+# My Portfolio v2
 
-A minimalist, high-performance personal portfolio built as a single-page application to present my work, technical background, and current digital presence with a clean user experience.
+Personal portfolio for Guilherme Fortunato Machado, built as a modern single-page application to present professional background, experience, projects, education, and contact channels.
 
-## Key Highlights
+## Overview
 
-- Vite-powered development and production builds
-- React 19 SPA architecture
-- Framer Motion for fluid transitions and interactive motion
-- Tailwind CSS 4 for fast, consistent styling
-- Minimalist UI focused on clarity, responsiveness, and smooth navigation
+Version 2.0 focuses on a minimalist, responsive, and performant interface, with clear reading flow, simple navigation, and smooth microinteractions. The content is available in Portuguese and English, with browser language detection and manual language switching in the UI.
 
-## 1. The Challenge
+## Key Features
 
-Creating a digital presence that reflects technical skills without becoming cluttered, overly formal, or visually heavy. The portfolio needed to feel modern and intentional while keeping the experience simple, fast, and easy to navigate.
+- SPA built with Vite 7, React 19, and TypeScript
+- Styling with Tailwind CSS 4, shadcn, and theme tokens
+- Animations and transitions with Framer Motion
+- Smooth scrolling with Lenis
+- Internationalization with i18next and react-i18next
+- Icons with Lucide React and custom components
+- Public SEO and sharing assets, including favicon, Open Graph image, sitemap, and robots.txt
 
-## 2. The Solution
+## Structure
 
-This project is a high-performance SPA focused on UX/UI, clean code, and lightweight interaction. It uses animated transitions, responsive layout decisions, and a minimal visual language to create a polished portfolio experience.
+```text
+src/
+  components/      UI components, sections, cursor, scrollbar, and language switcher
+  i18n/            Language setup and pt-BR/en-US translations
+  lib/             Portfolio data, utilities, and animation presets
+  styles/          Global CSS, Tailwind, and theme tokens
+  App.tsx          Main page structure
+  main.tsx         Application entry point
 
-The current version also preserves access to the previous portfolio under `public/legacy`, allowing visitors to view older work while the modern version evolves.
+public/
+  assets/          Images used by the interface
+  favicon.*        Favicons
+  open-graph.webp  Social sharing image
+  robots.txt       Indexing rules
+  sitemap.xml      Site map
+```
 
-## 3. Technologies
+## Technologies
 
 - Vite
 - React
-- Framer Motion
+- TypeScript
 - Tailwind CSS
-- Lottie React
-- JavaScript
+- Framer Motion
+- Lenis
+- i18next
+- Lucide React
+- Radix UI / shadcn
 
-## 4. How to Run
+## Getting Started
 
-Make sure you have Node.js installed, then run the project locally:
+This project uses Yarn 1.22.22 as its primary package manager. With Node.js installed, run:
 
 ```bash
-npm install
-npm run dev
+yarn
+yarn dev
 ```
 
 The local development server will be available at:
@@ -47,20 +65,24 @@ http://localhost:5173
 To create a production build:
 
 ```bash
-npm run build
+yarn build
 ```
 
 To preview the production build locally:
 
 ```bash
+yarn preview
+```
+
+You can also use npm:
+
+```bash
+npm install
+npm run dev
+npm run build
 npm run preview
 ```
 
-If you prefer Yarn, the same scripts are available:
+## License
 
-```bash
-yarn
-yarn dev
-yarn build
-yarn preview
-```
+This project is licensed under the MIT License.
