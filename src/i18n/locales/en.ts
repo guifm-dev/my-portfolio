@@ -18,8 +18,8 @@ export const en = {
             {
                 role: "Full-Stack Developer",
                 company: "Amerigo Corporation",
-                period: "Feb/2026 — Present",
-                description: "Migrated infrastructure from VPS to dedicated servers with Docker, recovering critical APIs and ensuring high availability. I develop and maintain high-performance PWAs with Next.js 14, manage the data ecosystem with Redis, MinIO and PostgreSQL, and integrate payment gateways like Stripe."
+                period: "Feb/2026 — Jun/2026",
+                description: "Migrated a VPS infrastructure to dedicated servers using Docker, recovering critical APIs and ensuring 99.9% uptime. I developed and maintained PWAs with Next.js 14, managed the data ecosystem with Redis, MinIO, and PostgreSQL, and integrated payment gateways with Stripe."
             },
             {
                 role: "Junior Full-Stack Developer",
@@ -31,7 +31,7 @@ export const en = {
                 role: "Full-Stack PHP Developer (Freelance)",
                 company: "Prime Assessoria Imobiliária",
                 period: "Sep/2022 — Present",
-                description: "Ongoing on-demand freelance since 2022. Built and maintain the company's corporate web system: client area, admin panel with CRUD and reports, PDF automation and Google Cloud Document AI integration for document data extraction."
+                description: "I develop and maintain the company's corporate web system: client area, administrative panel with CRUD and reports, PDF automations, and integration with Google Cloud Document AI for automatic data extraction from documents and form filling via browser extension."
             }
         ],
     },

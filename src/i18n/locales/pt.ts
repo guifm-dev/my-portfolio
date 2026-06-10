@@ -18,8 +18,8 @@ export const pt = {
             {
                 role: "Desenvolvedor Full-Stack",
                 company: "Amerigo Corporation",
-                period: "Fev/2026 — Presente",
-                description: "Migrei a infraestrutura de VPS para servidores dedicados com Docker, recuperando APIs críticas e garantindo alta disponibilidade. Desenvolvo e mantenho PWAs com Next.js 14, gerencio o ecossistema de dados com Redis, MinIO e PostgreSQL, e integro gateways de pagamento como Stripe."
+                period: "Fev/2026 — Jun/2026",
+                description: "Migrei a infraestrutura de VPS para servidores dedicados com Docker, recuperando APIs críticas e garantindo 99.9% de uptime. Desenvolvi e mantive PWAs com Next.js 14, gerenciei o ecossistema de dados com Redis, MinIO e PostgreSQL, e integrei gateways de pagamento com Stripe."
             },
             {
                 role: "Desenvolvedor Full-Stack Júnior",
@@ -31,7 +31,7 @@ export const pt = {
                 role: "Desenvolvedor Full-Stack PHP (Freelance)",
                 company: "Prime Assessoria Imobiliária",
                 period: "Set/2022 — Presente",
-                description: "Freelance sob demanda ativo desde 2022. Desenvolvi e mantenho o sistema web corporativo da empresa: área do cliente, painel administrativo com CRUD e relatórios, automações de PDFs e integração com Google Cloud Document AI para extração de dados de documentos."
+                description: "Desenvolvo e mantenho o sistema web corporativo da empresa: área do cliente, painel administrativo com CRUD e relatórios, automações de PDFs e integração com Google Cloud Document AI para extração automática de dados de documentos e preenchimento de formulários via extensão de navegador."
             }
         ],
     },
