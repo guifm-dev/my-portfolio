@@ -70,7 +70,7 @@ export const pt = {
         cta: "Tem um problema<br />pra resolver?<br />Me conta o que<br />você precisa.",
         email: "E-mail",
         social: "Social",
-        location: "Curitiba, Brazil",
+        location: "Curitiba, Brasil",
     },
 
     contact: { emailLink: "mailto:hello@guifm.dev?subject=Olá%2C%20Guilherme&body=Oi%2C%20Guilherme%21%0A%0A" },
