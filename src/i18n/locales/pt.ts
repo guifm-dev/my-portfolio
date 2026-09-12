@@ -35,7 +35,7 @@ export const pt = {
             },
             {
                 role: "Desenvolvedor Full-Stack PHP (Freelance)",
-                company: "Prime Assessoria Imobiliária",
+                company: "Prime Assessoria",
                 period: "Set/2022 — Presente",
                 description: "Desenvolvo e mantenho o sistema web corporativo da empresa: área do cliente, painel administrativo com CRUD e relatórios, automações de PDFs e integração com Google Cloud Document AI para extração automática de dados de documentos e preenchimento de formulários via extensão de navegador."
             }

@@ -35,7 +35,7 @@ export const en = {
             },
             {
                 role: "Full-Stack PHP Developer (Freelance)",
-                company: "Prime Assessoria Imobiliária",
+                company: "Prime Assessoria",
                 period: "Sep/2022 — Present",
                 description: "I develop and maintain the company's corporate web system: client area, administrative panel with CRUD and reports, PDF automations, and integration with Google Cloud Document AI for automatic data extraction from documents and form filling via browser extension."
             }
