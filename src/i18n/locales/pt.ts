@@ -16,6 +16,12 @@ export const pt = {
         label: "Experiência",
         items: [
             {
+                role: "Estagiário em Back-End",
+                company: "TX Fuel",
+                period: "Ago/2026 — Presente",
+                description: "Atuo no desenvolvimento de sistemas internos para o setor de distribuição de combustíveis, trabalhando com Java em ambiente corporativo pela primeira vez. Também contribuo no front-end com Flutter e Dart. Venho expandindo minha stack para além de TypeScript/Node, aprofundando-me em PostgreSQL e ferramentas como NetBeans, DBeaver e Maven."
+            },
+            {
                 role: "Desenvolvedor Full-Stack",
                 company: "Amerigo Corporation",
                 period: "Fev/2026 — Jun/2026",

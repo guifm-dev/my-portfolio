@@ -16,6 +16,12 @@ export const en = {
         label: "Experience",
         items: [
             {
+                role: "Back-End Intern",
+                company: "TX Fuel",
+                period: "Aug/2026 — Present",
+                description: "I work on internal systems for the fuel distribution industry, applying Java in a corporate environment for the first time. I also contribute to the front-end using Flutter and Dart. I've been expanding my stack beyond TypeScript/Node, deepening my knowledge of PostgreSQL and tools like NetBeans, DBeaver and Maven."
+            },
+            {
                 role: "Full-Stack Developer",
                 company: "Amerigo Corporation",
                 period: "Feb/2026 — Jun/2026",
