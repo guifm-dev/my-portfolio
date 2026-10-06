@@ -16,10 +16,16 @@ export const en = {
         label: "Experience",
         items: [
             {
+                role: "Junior Development Assistant",
+                company: "Grupo Pinho",
+                period: "Oct/2026 — Present",
+                description: "I work on the maintenance and evolution of automation tools and the Codifica platform, contributing to improvements, new features, and technical support. My role spans Python, Node.js, automation with Selenium and Playwright, databases, infrastructure, and DevOps, as well as AI/LLM integrations."
+            },
+            {
                 role: "Back-End Intern",
                 company: "TX Fuel",
-                period: "Aug/2026 — Present",
-                description: "I work on internal systems for the fuel distribution industry, applying Java in a corporate environment for the first time. I also contribute to the front-end using Flutter and Dart. I've been expanding my stack beyond TypeScript/Node, deepening my knowledge of PostgreSQL and tools like NetBeans, DBeaver and Maven."
+                period: "Aug/2026 — Oct/2026",
+                description: "I worked on internal systems for the fuel distribution industry, applying Java in a corporate environment for the first time. I also contributed to the front-end using Flutter and Dart. I expanded my stack beyond TypeScript/Node, deepening my knowledge of PostgreSQL and tools like NetBeans, DBeaver and Maven."
             },
             {
                 role: "Full-Stack Developer",

@@ -16,10 +16,16 @@ export const pt = {
         label: "Experiência",
         items: [
             {
+                role: "Assistente de Desenvolvimento Júnior",
+                company: "Grupo Pinho",
+                period: "Out/2026 — Presente",
+                description: "Atuo na manutenção e evolução de ferramentas de automação e da plataforma Codifica, contribuindo com melhorias, novas funcionalidades e suporte técnico. Trabalho de forma ampla entre Python, Node.js, automação com Selenium e Playwright, bancos de dados, infraestrutura e DevOps, além de integrações com IA/LLMs."
+            },
+            {
                 role: "Estagiário em Back-End",
                 company: "TX Fuel",
-                period: "Ago/2026 — Presente",
-                description: "Atuo no desenvolvimento de sistemas internos para o setor de distribuição de combustíveis, trabalhando com Java em ambiente corporativo pela primeira vez. Também contribuo no front-end com Flutter e Dart. Venho expandindo minha stack para além de TypeScript/Node, aprofundando-me em PostgreSQL e ferramentas como NetBeans, DBeaver e Maven."
+                period: "Ago/2026 — Out/2026",
+                description: "Atuei no desenvolvimento de sistemas internos para o setor de distribuição de combustíveis, trabalhando com Java em ambiente corporativo pela primeira vez. Também contribuí no front-end com Flutter e Dart. Expandi minha stack para além de TypeScript/Node, aprofundando meus conhecimentos em PostgreSQL e ferramentas como NetBeans, DBeaver e Maven."
             },
             {
                 role: "Desenvolvedor Full-Stack",
