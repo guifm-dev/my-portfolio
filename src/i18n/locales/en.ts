@@ -8,7 +8,7 @@ export const en = {
 
     about: {
         label: "About",
-        lead: "I'm 18, based in Curitiba, Brazil, and I've worked in development since 2022. I started with freelance work, learned by doing, and today I'm still full-stack, aiming to specialize in software architecture and security.",
+        lead: "I'm 18, based in the Curitiba area, Brazil, and I've worked in development since 2022. I started with freelance work, learned by doing, and today I'm still full-stack, aiming to specialize in software architecture and security.",
         body: "I like automating processes and building systems people actually use. I use AI daily to move faster, but decisions, review and testing stay with me.",
     },
 

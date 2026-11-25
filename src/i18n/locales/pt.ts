@@ -8,7 +8,7 @@ export const pt = {
 
     about: {
         label: "Sobre",
-        lead: "Tenho 18 anos, sou de Curitiba e trabalho com desenvolvimento desde 2022. Comecei em freelas, aprendi fazendo e hoje sigo full-stack, de olho em me especializar em arquitetura de software e segurança.",
+        lead: "Tenho 18 anos, sou da região metropolitana de Curitiba e trabalho com desenvolvimento desde 2022. Comecei em freelas, aprendi fazendo e hoje sigo full-stack, de olho em me especializar em arquitetura de software e segurança.",
         body: "Gosto de automatizar processos e construir sistemas que as pessoas realmente usam. Uso IA no dia a dia para ganhar velocidade, mas as decisões, a revisão e os testes ficam comigo.",
     },
 
