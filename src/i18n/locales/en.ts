@@ -3,47 +3,47 @@ export const en = {
 
     hero: {
         role: "Full-Stack Developer",
-        bio: "I build web products end to end — from the database to the interface — with a focus on clean code and experiences that actually work.",
+        bio: "I build reliable systems, from the database to the user interface, with a focus on architecture and security. I use AI as a tool without compromising my own judgment.",
     },
 
     about: {
         label: "About",
-        lead: "I'm 18, based in Curitiba, Brazil, and I've been working with development since 2022. I started with freelance projects, learned by doing, and today I work as a full-stack developer focused on TypeScript, React and Node.js.",
-        body: "I enjoy solving real problems with software — automating tedious processes, building systems people actually use, and writing code other devs can maintain. I've applied AI in production and deliver features end to end.",
+        lead: "I'm 18, based in Curitiba, and have been working in software development since 2022. I started out freelancing, learned by doing, and now work across the full stack, with plans to specialize in software architecture and security.",
+        body: "I enjoy automating processes and building systems that people actually use. I use AI in my daily workflow to work more efficiently, but the decisions, reviews, and testing remain my responsibility.",
     },
 
     experience: {
         label: "Experience",
         items: [
             {
-                role: "Junior Development Assistant",
+                role: "Junior Developer",
                 company: "Grupo Pinho",
-                period: "Oct/2026 — Present",
-                description: "I work on the maintenance and evolution of automation tools and the Codifica platform, contributing to improvements, new features, and technical support. My role spans Python, Node.js, automation with Selenium and Playwright, databases, infrastructure, and DevOps, as well as AI/LLM integrations."
+                period: "Oct 2026 — Present",
+                description: "Independently designed a secure gateway with a durable queue (DBOS/Postgres) and automated freight invoice verification in Python. Both are in production."
             },
             {
-                role: "Back-End Intern",
+                role: "Full-Stack Intern",
                 company: "TX Fuel",
-                period: "Aug/2026 — Oct/2026",
-                description: "I worked on internal systems for the fuel distribution industry, applying Java in a corporate environment for the first time. I also contributed to the front-end using Flutter and Dart. I expanded my stack beyond TypeScript/Node, deepening my knowledge of PostgreSQL and tools like NetBeans, DBeaver and Maven."
+                period: "Aug 2026 — Oct 2026",
+                description: "Delivered UI screens, PDF/Excel reports, and tax-related updates to Brazilian electronic service invoices (NFS-e), including IBS/CBS and Pix payments on boletos, using Java and PostgreSQL. Also implemented Flutter front-end adjustments."
             },
             {
                 role: "Full-Stack Developer",
                 company: "Amerigo Corporation",
-                period: "Feb/2026 — Jun/2026",
-                description: "Migrated a VPS infrastructure to dedicated servers using Docker, recovering critical APIs and ensuring 99.9% uptime. I developed and maintained PWAs with Next.js 14, managed the data ecosystem with Redis, MinIO, and PostgreSQL, and integrated payment gateways with Stripe."
+                period: "Feb 2026 — Jun 2026",
+                description: "Migrated the VPS infrastructure to a Linux environment with Docker (99.9% uptime) and delivered offline-first PWAs using Next.js 14, Redis, MinIO, and Stripe, serving as the system's sole developer."
             },
             {
                 role: "Junior Full-Stack Developer",
                 company: "Uizzy Intuitive",
-                period: "Jun/2025 — Feb/2026",
-                description: "Joined as a UI/UX Design Intern and moved into development after three months. Progressed through a web development internship and was promoted to Junior — building applications with Next.js, SurrealDB, Deno, GraphQL and TanStack Query, applying DDD and Clean Architecture, and delivering complete modules such as password recovery, profile editing and avatar upload."
+                period: "Jun 2025 — Feb 2026",
+                description: "Joined as a UI/UX intern and progressed to Junior Developer, delivering end-to-end modules with Next.js, Deno, and GraphQL, applying Clean Architecture, DDD, and E2E testing."
             },
             {
-                role: "Full-Stack PHP Developer (Freelance)",
+                role: "Freelance Full-Stack PHP Developer",
                 company: "Prime Assessoria",
-                period: "Sep/2022 — Present",
-                description: "I develop and maintain the company's corporate web system: client area, administrative panel with CRUD and reports, PDF automations, and integration with Google Cloud Document AI for automatic data extraction from documents and form filling via browser extension."
+                period: "Sep 2022 — Present",
+                description: "Develop and maintain the company's web platform (client portal and admin dashboard), as well as an AI-powered extension using Document AI to extract data and populate forms."
             }
         ],
     },
@@ -53,11 +53,11 @@ export const en = {
         items: [
             {
                 name: "Prime Assessoria System",
-                description: "Corporate web system for a Caixa Aqui correspondent — real estate financing. Includes a client area, admin panel, automated reports and AI integration (Google Cloud Document AI) for document data extraction and automatic form filling via a custom Chrome extension."
+                description: "A real estate financing web platform (Caixa Aqui) featuring a client portal, admin dashboard, and an AI-powered Chrome extension that extracts data from documents and automatically fills out forms."
             },
             {
                 name: "EMEDE Project",
-                description: "Mobile app that digitized weather data collection for a project at Colégio Júlio Szymanski. Automated .xlsx report generation via Firebase, eliminating manual transcription and improving data accuracy."
+                description: "A mobile app that digitized weather data collection at Colégio Júlio Szymanski, generating automated .xlsx reports through Firebase and eliminating manual data entry."
             },
         ],
     },
@@ -67,25 +67,25 @@ export const en = {
         items: [
             {
                 degree: "Software Engineering",
-                school: "Bachelor's · Uninter",
+                school: "Bachelor's Degree · Uninter",
                 period: "2026 — 2030",
             },
             {
                 degree: "Systems Analysis and Development",
-                school: "Technical · College Júlio Szymanski",
+                school: "Technical Program · Colégio Júlio Szymanski",
                 period: "2023 — 2025",
             },
         ],
     },
 
     footer: {
-        cta: "Got a problem<br />to solve?<br />Tell me what<br />you need.",
+        cta: "Have a problem\<br />to solve?\<br />Tell me what\<br />you need.",
         email: "Email",
         social: "Social",
         location: "Curitiba, Brazil",
     },
 
-    contact: { emailLink: "mailto:hello@guifm.dev?subject=Hey%2C%20Guilherme&body=Hey%2C%20Guilherme%21%0A%0A" },
+    contact: { emailLink: "mailto:hello@guifm.dev?subject=Hello%2C%20Guilherme&body=Hi%2C%20Guilherme%21%0A%0A" },
 
     lang: { switchTo: "Switch to Portuguese" },
 }

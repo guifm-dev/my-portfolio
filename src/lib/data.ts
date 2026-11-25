@@ -1,5 +1,5 @@
 /* G.F.M */
-export const stack = ["TypeScript", "Next.js", "Node.js", "PostgreSQL", "Docker"];
+export const stack = ["Python", "TypeScript", "Node.js", "PostgreSQL", "Docker"];
 
 export const projectsMeta = [
     {
